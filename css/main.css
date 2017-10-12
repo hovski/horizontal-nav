@@ -16,6 +16,8 @@ header {
 h1 {
   font-family: "Bevan",sans-serif;
   color: #fff;
+  text-decoration: none;
+  text-align: center;
 }
 
 nav ul {
