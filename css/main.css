@@ -7,7 +7,7 @@ html {
   box-sizing: inherit;
 }
 header {
-  font-family: "Bevon",sans-serif;
+  font-family: "Bevan",sans-serif;
 }
 
 nav ul {
@@ -27,4 +27,8 @@ nav a{
   color: #fff;
   text-decoration: none;
   text-align: center;
+}
+
+nav a:hover {
+
 }
