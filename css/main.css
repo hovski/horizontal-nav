@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  font: normal 100%/1.5 sans-serif;
 }
 
 *, *::before, *::after {
@@ -8,10 +9,20 @@ html {
 
 nav ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: .3em;
+  padding: .6em;
 }
 
 nav li {
   display: inline;
+}
+
+nav a{
+  display: inline-block;
+  width: 6em;
+  padding: .5em .75em;
+  background-color: #713837;
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
 }
