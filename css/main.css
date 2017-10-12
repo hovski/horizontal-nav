@@ -10,9 +10,10 @@ html {
 header {
   background-color: #79756f;
   margin: 0;
-  border-color: #595652;
-  border-top: 0.6em;
-  border-bottom: 0.6em;
+  padding-top: 0.6em;
+  padding-bottom: 0.6em;
+  border-top: 3px solid #595652;
+  border-bottom: 3px solid #595652;
 }
 
 body {
@@ -35,8 +36,6 @@ nav ul {
 
 nav li {
   display: inline;
-  text-decoration: none;
-  text-align: center;
 }
 
 nav a{
