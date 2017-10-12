@@ -6,6 +6,13 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+header {
+  background-color: #79756f;
+  padding-top: .6em;
+  padding-bottom: .6em;
+}
+
 h1 {
   font-family: "Bevan",sans-serif;
   color: #fff;
