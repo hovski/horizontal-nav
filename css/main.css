@@ -32,7 +32,6 @@ nav ul {
   list-style-type: none;
   margin: .3em;
   padding: .6em;
-  border-radius: 4px;
 }
 
 nav li {
@@ -44,6 +43,7 @@ nav a{
   padding: .5em .75em;
   background-color: #713837;
   color: #fff;
+  border-radius: 4px;
   text-decoration: none;
   text-align: center;
 }
