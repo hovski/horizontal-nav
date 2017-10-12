@@ -35,6 +35,8 @@ nav ul {
 
 nav li {
   display: inline;
+  text-decoration: none;
+  text-align: center;
 }
 
 nav a{
