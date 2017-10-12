@@ -7,6 +7,10 @@ html {
   box-sizing: inherit;
 }
 
+h1 {
+  font-family: "Bevon",sans-serif;
+}
+
 nav ul {
   list-style-type: none;
   margin: .3em;
