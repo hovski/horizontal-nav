@@ -30,13 +30,13 @@ h1 {
 
 nav ul {
   list-style-type: none;
+  text-align: center;
   margin: .3em;
   padding: .6em;
 }
 
 nav li {
   display: inline;
-  text-align: center;
 }
 
 nav a{
