@@ -6,7 +6,7 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
-header {
+h1 {
   font-family: "Bevan",sans-serif;
   color: #fff;
 }
